@@ -1,4 +1,4 @@
-readme_content = """
+
 # 📘 PDFsage
 
 **PDFsage** is an intelligent PDF reader and answer provider web application built using **LangChain**, **Streamlit**, and **Python**. Upload any PDF and interact with it through natural language — ask questions, summarize content, extract data, and more.
